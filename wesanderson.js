@@ -15,7 +15,7 @@ var wes_palettes = {
 "Royal1": [ "#899DA4", "#C93312", "#FAEFD1", "#DC863B" ],
 "Royal2": [ "#9A8822", "#F5CDB4", "#F8AFA8", "#FDDDA0", "#74A089" ],
 "Rushmore1": [ "#E1BD6D", "#EABE94", "#0B775E", "#35274A", "#F2300F" ],
-"Zissou1": [ "#3B9AB2", "#78B7C5", "#EBCC2A", "#E1AF00", "#F21A00" ] 
+"Zissou1": [ "#3B9AB2", "#78B7C5", "#EBCC2A", "#E1AF00", "#F21A00" ]
 };
 // helper function: call with a palette name and (optionally) some number of colors
 var wes_palette = function(palette, n_colors) {

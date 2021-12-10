@@ -21,8 +21,8 @@ keywords: Statistics, Data Analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="">
-        <img src="pages/publpics/bioinformatics1.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="https://github.com/peter75977/USDx">
+        <img src="pages/publpics/USDX Corr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">

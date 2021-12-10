@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Benjamin Harvey
+title: Bite Xiong
 description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
 keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---

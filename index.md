@@ -22,7 +22,13 @@ keywords: Statistics, Data Analytics
 <tr>
   <td class="left">
     <a href="https://github.com/peter75977/USDx">
-        <img src="pages/publpics/USDX Corr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="pages/publpics/USDX Corr.png"
+        alt="R/qtlcharts example"
+        title="R/qtlcharts example"
+        style="
+            width:800px;
+            height:800px;
+            />
     </a>
   </td>
   <td class="right">

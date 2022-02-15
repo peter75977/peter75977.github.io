@@ -178,3 +178,4 @@ To participate in discussion about the use of R/qtl, join the
 Google group, [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
 ---
+-->

@@ -8,10 +8,10 @@ keywords: Statistics, Data Analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/bsharvey_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/BiteXiong-CV.pdf">cv</a></li>
           <li><a href="https://github.com/peter75977">github</a></li>
           <li><a href="peter75977.github.io">blog</a></li>
-#<li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+#<li><a href="https://www.linkedin.com/in/bite-xiong-99baaa225/">LinkedIn</a></li>
       </ul>
   </div>
 </div>

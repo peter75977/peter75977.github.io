@@ -26,9 +26,8 @@ keywords: Statistics, Data Analytics
     </a>
   </td>
   <td class="right">
-    <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
-        <img src="pages/publpics/nba1.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="https://github.com/peter75977/2020-2021-Used-Car-Analysis">
+        <img src="pages/publpics/5.1. EDA_Map_Median Price.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
 </tr>

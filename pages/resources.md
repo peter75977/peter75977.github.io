@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 title: Resources
@@ -22,32 +23,32 @@ description: Ben Harvey's assignments
         [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/The%20Data%20Science%20Handbook.pdf)
 
 #### <a name="Big Data Fundamentals"></a>[Big Data Fundamentals](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/bigdatafundamentals-thomaserl-book.pdf)
-        Erl, Thomas, Wajid Khattak, and Paul Buhler. Big data fundamentals: concepts, drivers & techniques. Prentice Hall Press, 2016.  Available for free as a PDF download at 
+        Erl, Thomas, Wajid Khattak, and Paul Buhler. Big data fundamentals: concepts, drivers & techniques. Prentice Hall Press, 2016.  Available for free as a PDF download at
         [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/bigdatafundamentals-thomaserl-book.pdf)
-        
+
 #### <a name="Doing data science"></a>[Doing data science](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/Doing%20Data%20Science.pdf)
     Schutt, Rachel, and Cathy O'Neil. Doing data science: Straight talk from the frontline. " O'Reilly Media, Inc.", 2013.
-    Available for free as a PDF download at 
+    Available for free as a PDF download at
         [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/Doing%20Data%20Science.pdf)
 
 #### <a name="Machine learning for hackers"></a>[Machine learning for hackers](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/machine_learning_for_hackers.pdf)
     Conway, Drew, and John White. Machine learning for hackers. " O'Reilly Media, Inc.", 2012.
-    Available for free as a PDF download at 
+    Available for free as a PDF download at
         [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/machine_learning_for_hackers.pdf)
 
 #### <a name="Python for data analysis"></a>[Python for data analysis](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/Python4DataAnalysis.pdf)
     McKinney, Wes. Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. " O'Reilly Media, Inc.", 2012.
-    Available for free as a PDF download at 
+    Available for free as a PDF download at
         [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/Python4DataAnalysis.pdf)
 
 #### <a name="Data Science for Business"></a>[Data Science for Business](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/data-science-for-business.pdf)
     Provost, Foster, and Tom Fawcett. Data Science for Business: What you need to know about data mining and data-analytic thinking. " O'Reilly Media, Inc.", 2013.
-    Available for free as a PDF download at 
+    Available for free as a PDF download at
         [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/data-science-for-business.pdf)
 
 #### <a name="Introduction to data science"></a>[Introduction to data science](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/DataScienceBook1_1.pdf)
     Stanton, Jeffrey M. "Introduction to data science." (2013).
-    Available for free as a PDF download at 
+    Available for free as a PDF download at
         [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/DataScienceBook1_1.pdf)
 
 
@@ -180,4 +181,3 @@ description: Ben Harvey's assignments
 
 ## <a name="Miscelaneous"></a>Miscelaneous
 ---
-

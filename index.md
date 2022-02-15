@@ -32,6 +32,7 @@ keywords: Statistics, Data Analytics
     </a>
   </td>
 </tr>
+<!--
 <tr>
   <td class="left">
     <a href="https://bsharvey.github.io">
@@ -44,12 +45,13 @@ keywords: Statistics, Data Analytics
     </a>
   </td>
 </tr>
+-->
 </table>
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://bsharvey.github.io">see more figures</a></li>
+          <li><a href="https://github.com/peter75977">see more figures</a></li>
       </ul>
   </div>
 </div>

@@ -22,8 +22,7 @@ keywords: Statistics, Data Analytics
 <tr>
   <td class="left">
     <a href="https://github.com/peter75977/USDx">
-        <img src="pages/publpics/USDX Corr.png" alt="USDx" title="USDx"
-        style="width: 200%"/>
+        <img src="pages/publpics/USDX Corr.png" alt="USDx" title="USDx"/>
     </a>
   </td>
   <td class="right">

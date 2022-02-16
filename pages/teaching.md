@@ -60,4 +60,3 @@ description: Ben Harvey's teaching
 - [Assignments and Labs](https://github.com/bsharvey/EMSEDataAnalytics)
 - [Project Proposal and Final Project Instructions](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Proposal%20Paper_GWU_Fall2018_20180830.pdf)
 - [Portfolio and Presentation Rubric](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Portfolio%20Rubric_Fall2018_20180830.pdf)
--->

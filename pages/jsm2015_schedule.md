@@ -134,4 +134,3 @@ Receptions
 - [Joseph Paulson](http://www.amstat.org/meetings/JSM/2015/onlineprogram/AbstractDetails.cfm?abstractid=314648)
 - [Katherine Snowden Pollard](http://www.amstat.org/meetings/JSM/2015/onlineprogram/AbstractDetails.cfm?abstractid=314266)
 - [Amy Willis](http://www.amstat.org/meetings/JSM/2015/onlineprogram/AbstractDetails.cfm?abstractid=314231)
--->

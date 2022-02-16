@@ -41,4 +41,3 @@ title: data science programs and departments
 - Emory [PhD in Biomedical Informatics](http://www.bmi.emory.edu/Education)
 
 - Stanford [Department of Biomedical Data Science](http://med.stanford.edu/dbds.html)
--->

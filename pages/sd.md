@@ -89,4 +89,3 @@ description: planning trip to South Dakota
 
 - [Toadstool Geological Park](http://www.fs.usda.gov/recarea/nebraska/recreation/recarea/?recid=10616),
   [Harrison, NE](https://goo.gl/maps/yXBcRZ66MUR2)
--->

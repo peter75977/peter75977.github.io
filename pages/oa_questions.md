@@ -82,4 +82,3 @@ regarding its policy, as does the
 
   No. Under US copyright law, each author has the right to distribute
   the work, and this may be transferred to the university repository.
--->

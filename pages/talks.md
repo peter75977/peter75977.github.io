@@ -187,4 +187,3 @@ Lecture 4: Big Data Analysis, Technology Concepts, and Techniques<br/>
 ### <a name="talks"></a>talks
 
 ---
--->

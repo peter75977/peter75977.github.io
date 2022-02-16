@@ -23,13 +23,13 @@ keywords: Statistics, Data Analytics
   <td class="left">
     <a href="https://github.com/peter75977/USDx">
         <img src="pages/publpics/USDX Corr.png" alt="USDx" title="USDx"
-        style="width: 100%"/>
+        style="width: 200%"/>
     </a>
   </td>
   <td class="right">
     <a href="https://github.com/peter75977/2020-2021-Used-Car-Analysis">
         <img src="pages/publpics/5.1. EDA_Map_Median Price.png" alt="Used_car_analysis" title="Used_car_analysis"
-        style="width: 50%"/>
+        style="width: 60%"/>
     </a>
   </td>
 </tr>

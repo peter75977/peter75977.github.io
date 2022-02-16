@@ -22,12 +22,14 @@ keywords: Statistics, Data Analytics
 <tr>
   <td class="left">
     <a href="https://github.com/peter75977/USDx">
-        <img src="pages/publpics/USDX Corr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="pages/publpics/USDX Corr.png" alt="R/qtlcharts example" title="R/qtlcharts example"
+        style="max-width: 100%;"/>
     </a>
   </td>
   <td class="right">
     <a href="https://github.com/peter75977/2020-2021-Used-Car-Analysis">
-        <img src="pages/publpics/5.1. EDA_Map_Median Price.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="pages/publpics/5.1. EDA_Map_Median Price.png" alt="R/qtlcharts example" title="R/qtlcharts example"
+        style="max-width: 100%;"/>
     </a>
   </td>
 </tr>

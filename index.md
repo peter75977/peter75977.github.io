@@ -29,7 +29,7 @@ keywords: Statistics, Data Analytics
   <td class="right">
     <a href="https://github.com/peter75977/2020-2021-Used-Car-Analysis">
         <img src="pages/publpics/5.1. EDA_Map_Median Price.png" alt="Used_car_analysis" title="Used_car_analysis"
-        style="width: 60%"/>
+        style="width: 80%"/>
     </a>
   </td>
 </tr>

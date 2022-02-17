@@ -1,10 +1,9 @@
-<!--
 ---
 layout: page
 title: travel
 ---
 
-<!--
+
   <a href="http://statgen.ncsu.edu/brcwebsite/summer_institute_ral.php">Summer Institute in Statistical Genetics</a> at NC State in Raleigh, NC (June 8-10, 2005)
 
   <a href="http://www.complextrait.org/meetings/main.php#ctc2005">4th Annual Meeting of the Complex Trait Consortium</a> in Groningen, the Netherlands (June 27-30, 2005)
@@ -287,7 +286,7 @@ title: travel
 
 - [Reproducible Research course](https://www.biostat.washington.edu/suminst/sisbid2017/modules/BD1703), July 16-20, 2017 (Seattle, WA)
 
--->
+
 
 - [Systems Genetics of Neurodegenerative Disease course](http://sgn2017.org/), Aug 24-Sept 1,
   2017 ([Frauenchiemsee, Germany](http://bit.ly/2hxaxD4))
